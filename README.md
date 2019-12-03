@@ -2,6 +2,7 @@
 
 Certificados dos participantes da secitec 2019
 
+- [Listas dos ouvintes](https://ifpb-sr.github.io/certificados-secitec-2019/ouvintes)
 
 # Instalação das dependências:
 
