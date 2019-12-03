@@ -1,0 +1,243 @@
+# Participação como ouvintes na SECITEC
+
+Durante a SECITEC (Terça-Quarta) cada ouvinte poderia
+ter se inscritro em **duas** oficinas e participar da
+palestra de abertura e o show da química no final, totalizando
+**4** presenças (100%)
+
+A lista a seguir apresenta os percentuais de participação
+de cada ouvinte registrado nas listas de presenças.
+
+**OBS**: As participações dos monitores não são confiáveis,
+ver lista dos monitores.
+## Informática - 1º Ano
+- [Aldson Ayres de Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914610001) - 50%
+- [Ana Beatriz do Nascimento Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914610002) - 75%
+- [Ana Leticia de Araújo Isidio](https://suap.ifpb.edu.br/edu/aluno/201814610036) - 0%
+- [Anderson Rodrigo da Silva Anizio](https://suap.ifpb.edu.br/edu/aluno/201914610005) - 100%
+- [Andrielly Silva Souza](https://suap.ifpb.edu.br/edu/aluno/201914610006) - 50%
+- [André Cauã Silva Quirino](https://suap.ifpb.edu.br/edu/aluno/201914610003) - 75%
+- [Davi Henrique da Silva Medeiros](https://suap.ifpb.edu.br/edu/aluno/201914610007) - 100%
+- [Dayvidson Ferreira de Lima](https://suap.ifpb.edu.br/edu/aluno/201914610008) - 50%
+- [Eduarda Evangelista da Silva](https://suap.ifpb.edu.br/edu/aluno/201914610009) - 100%
+- [Elizama Bezerra Patrício de Souza](https://suap.ifpb.edu.br/edu/aluno/201914610010) - 100%
+- [Ewerton Dias Pereira](https://suap.ifpb.edu.br/edu/aluno/201914610011) - 75%
+- [Gabriel Batista da Silva](https://suap.ifpb.edu.br/edu/aluno/201914610013) - 25%
+- [Ghislaynne Maria Freitas de Andrade Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914610014) - 0%
+- [Guilherme Pires Dionisio](https://suap.ifpb.edu.br/edu/aluno/201914610012) - 100%
+- [Hisllayne Claudino de Lima](https://suap.ifpb.edu.br/edu/aluno/201914610015) - 75%
+- [Jonatha da Silva Andrade](https://suap.ifpb.edu.br/edu/aluno/201914610018) - 75%
+- [Joyce Leonardo de Freitas Silva](https://suap.ifpb.edu.br/edu/aluno/201914610019) - 100%
+- [João Victor Bezerra Pereira](https://suap.ifpb.edu.br/edu/aluno/201914610016) - 50%
+- [João Victor Soares Felicio](https://suap.ifpb.edu.br/edu/aluno/201914610017) - 100%
+- [Júlia Rossana Fortunato Madruga](https://suap.ifpb.edu.br/edu/aluno/201914610020) - 100%
+- [Kaylane Marcolino da Costa](https://suap.ifpb.edu.br/edu/aluno/201914610021) - 100%
+- [Klayven Pierry Duarte Quirino](https://suap.ifpb.edu.br/edu/aluno/201914610023) - 100%
+- [Layanne Camilly de Arruda Gomes](https://suap.ifpb.edu.br/edu/aluno/201914610024) - 50%
+- [Lucas Sales de Araujo](https://suap.ifpb.edu.br/edu/aluno/201914610027) - 75%
+- [Luís Eduardo de Souza Silva](https://suap.ifpb.edu.br/edu/aluno/201914610026) - 50%
+- [Lìvia Maria Pereira Araújo](https://suap.ifpb.edu.br/edu/aluno/201914610025) - 100%
+- [Marcyelle de Souza Vieira](https://suap.ifpb.edu.br/edu/aluno/201914610028) - 50%
+- [Maria Clara da Silva Lima](https://suap.ifpb.edu.br/edu/aluno/201914610029) - 75%
+- [Maria Vitória de Lima Nazario](https://suap.ifpb.edu.br/edu/aluno/201814610027) - 0%
+- [Marielli Vitória da Silva Lopes](https://suap.ifpb.edu.br/edu/aluno/201814610034) - 25%
+- [Marilia Santos do Nascimento](https://suap.ifpb.edu.br/edu/aluno/201914610030) - 50%
+- [Mayane Vitória Alves Santos](https://suap.ifpb.edu.br/edu/aluno/201914610031) - 50%
+- [Milenna Xavier Marinho](https://suap.ifpb.edu.br/edu/aluno/201914610032) - 50%
+- [Miqueias Adrian da Silva Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914610033) - 25%
+- [Pedro Peixoto Viana de Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914610034) - 100%
+- [Roberta Caroline da Silva Medeiros](https://suap.ifpb.edu.br/edu/aluno/201914610036) - 100%
+- [Rodrigo Clementino Gomes](https://suap.ifpb.edu.br/edu/aluno/201914610035) - 75%
+- [Rodrigo Veríssimo da Silva](https://suap.ifpb.edu.br/edu/aluno/201914610037) - 50%
+- [Ruan Silva de Queiroz](https://suap.ifpb.edu.br/edu/aluno/201914610038) - 100%
+- [Ryan Carlos Figueiredo de Souza](https://suap.ifpb.edu.br/edu/aluno/201914610039) - 75%
+- [Samuel de Melo Neves](https://suap.ifpb.edu.br/edu/aluno/201914610040) - 75%
+- [Vinicius Pereira da Silva](https://suap.ifpb.edu.br/edu/aluno/201914610041) - 75%
+- [Wilterlan Rogerio da Silva](https://suap.ifpb.edu.br/edu/aluno/201914610042) - 75%
+- [Yan Elias Santos de Souza](https://suap.ifpb.edu.br/edu/aluno/201914610043) - 100%
+- [Ávilla Rebeca Soares de Morais](https://suap.ifpb.edu.br/edu/aluno/201914610004) - 100%
+## Informática - 2º Ano
+- [Allana Barros de Lima](https://suap.ifpb.edu.br/edu/aluno/201814610002) - 75%
+- [Alyce Liberato Verissimo da Silva](https://suap.ifpb.edu.br/edu/aluno/201814610005) - 75%
+- [Ana Karla Alves da Silva](https://suap.ifpb.edu.br/edu/aluno/201814610004) - 0%
+- [Andreza David da Silva](https://suap.ifpb.edu.br/edu/aluno/201814610003) - 100%
+- [Andreza Maria Silva Morais](https://suap.ifpb.edu.br/edu/aluno/201714610033) - 75%
+- [Annielly Oliveira da Silva](https://suap.ifpb.edu.br/edu/aluno/201814610035) - 100%
+- [Augusto Miguel Faustino dos Santos](https://suap.ifpb.edu.br/edu/aluno/201814610006) - 50%
+- [David Santos Nascimento](https://suap.ifpb.edu.br/edu/aluno/201814610008) - 100%
+- [Emilly Vitória de Oliveira Cabral](https://suap.ifpb.edu.br/edu/aluno/201814610011) - 75%
+- [Emilson de Souza Nascimento](https://suap.ifpb.edu.br/edu/aluno/201814610010) - 50%
+- [Endel Guilherme de Lima Silva](https://suap.ifpb.edu.br/edu/aluno/201714610029) - 100%
+- [Escarlate Maria Silva do Nascimento](https://suap.ifpb.edu.br/edu/aluno/201814610009) - 50%
+- [Ezequiel da Silva Muniz](https://suap.ifpb.edu.br/edu/aluno/201714610020) - 25%
+- [Gabriel Moreira Cavalcante dos Santos](https://suap.ifpb.edu.br/edu/aluno/201814610012) - 100%
+- [Haniel Costa da Silva](https://suap.ifpb.edu.br/edu/aluno/201814610013) - 75%
+- [Henrique Fabrício de Souza Bandeira](https://suap.ifpb.edu.br/edu/aluno/201814610014) - 75%
+- [Iury da Silva Oliveira](https://suap.ifpb.edu.br/edu/aluno/201814610015) - 0%
+- [Jaciele da Silva Barros](https://suap.ifpb.edu.br/edu/aluno/201814610017) - 100%
+- [Jamille Pereira dos Santos](https://suap.ifpb.edu.br/edu/aluno/201814610019) - 75%
+- [José Rodrigo da Silva](https://suap.ifpb.edu.br/edu/aluno/201814610016) - 100%
+- [José Vinícius Vitorino de Oliveira](https://suap.ifpb.edu.br/edu/aluno/201814610020) - 25%
+- [Kananda Vitória Arão de Souza](https://suap.ifpb.edu.br/edu/aluno/201814610021) - 75%
+- [Leonarda Ricardo da Silva](https://suap.ifpb.edu.br/edu/aluno/201714610027) - 50%
+- [Maria Clara Pereira da Costa](https://suap.ifpb.edu.br/edu/aluno/201814610023) - 0%
+- [Maria Estephany Silva de Souza](https://suap.ifpb.edu.br/edu/aluno/201714610022) - 75%
+- [Maria Vitória Soares de Lima](https://suap.ifpb.edu.br/edu/aluno/201814610028) - 75%
+- [Mateus Fernandes da Costa](https://suap.ifpb.edu.br/edu/aluno/201814610024) - 75%
+- [Milene do Nascimento Silva](https://suap.ifpb.edu.br/edu/aluno/201814610025) - 100%
+- [Nivya Sterphane Lima da Silva](https://suap.ifpb.edu.br/edu/aluno/201814610029) - 25%
+- [Pedro Henrique Bezerra Pereira](https://suap.ifpb.edu.br/edu/aluno/201814610037) - 0%
+- [Rebeca Batista Bernardo](https://suap.ifpb.edu.br/edu/aluno/201714610032) - 25%
+- [Renan Gomes da Silva](https://suap.ifpb.edu.br/edu/aluno/201814610030) - 100%
+- [Stephanie Freitas Farias](https://suap.ifpb.edu.br/edu/aluno/201814610032) - 100%
+- [Victor Gabriel Bernardo da Costa](https://suap.ifpb.edu.br/edu/aluno/201714610021) - 25%
+- [Álefe Thierry da Paz Correia](https://suap.ifpb.edu.br/edu/aluno/201714610031) - 50%
+## Informática - 3º Ano
+- [Anielle de Carvalho Batista](https://suap.ifpb.edu.br/edu/aluno/201714610015) - 50%
+- [Arielli Carvalho Batista](https://suap.ifpb.edu.br/edu/aluno/201714610018) - 50%
+- [Bianca Whemelly Lima de Abreu](https://suap.ifpb.edu.br/edu/aluno/201714610028) - 100%
+- [Drielle de Moura Fortunato](https://suap.ifpb.edu.br/edu/aluno/201714610012) - 100%
+- [Emelly de Lima Silva de Araujo](https://suap.ifpb.edu.br/edu/aluno/201614610014) - 25%
+- [Fábio Leandro da Silva Pereira](https://suap.ifpb.edu.br/edu/aluno/201714610026) - 0%
+- [Helena Victoria do Nascimento Tocchio](https://suap.ifpb.edu.br/edu/aluno/201714610038) - 0%
+- [Ismael Alves Lima](https://suap.ifpb.edu.br/edu/aluno/201714610025) - 50%
+- [Jackson Alexandre Santos da Silva](https://suap.ifpb.edu.br/edu/aluno/201714610035) - 125%
+- [Jamilly Cãndido Bernardo](https://suap.ifpb.edu.br/edu/aluno/201714610003) - 50%
+- [Jhullyêne Ellen Paulino de Oliveira](https://suap.ifpb.edu.br/edu/aluno/201714610006) - 25%
+- [José William Padilha de Lima da Silva](https://suap.ifpb.edu.br/edu/aluno/201714610023) - 50%
+- [Jéssica Larissa Brito de Andrade](https://suap.ifpb.edu.br/edu/aluno/201714610010) - 75%
+- [Karla Vanessa dos Santos Souza](https://suap.ifpb.edu.br/edu/aluno/201714610017) - 25%
+- [Leticia de Sousa Soares](https://suap.ifpb.edu.br/edu/aluno/201714610004) - 25%
+- [Lucas Silva Arcoverde](https://suap.ifpb.edu.br/edu/aluno/201814610001) - 50%
+- [Maria Adrielly de Andrade Silva](https://suap.ifpb.edu.br/edu/aluno/201714610019) - 25%
+- [Maria Gabrielly dos Anjos Silva](https://suap.ifpb.edu.br/edu/aluno/201714610011) - 75%
+- [Milena Batista do Amarante](https://suap.ifpb.edu.br/edu/aluno/201714610024) - 100%
+- [Milleidy Natalia Bastos dos Santos](https://suap.ifpb.edu.br/edu/aluno/201714610008) - 100%
+- [Quéren Hapuque Labuena Santos Viegas](https://suap.ifpb.edu.br/edu/aluno/201714610005) - 50%
+- [Rayane Mayara da Silva Souza](https://suap.ifpb.edu.br/edu/aluno/201714610001) - 50%
+- [Rayssa Lohanny Araújo Alves](https://suap.ifpb.edu.br/edu/aluno/201714610002) - 100%
+- [Richard de Lima Araújo](https://suap.ifpb.edu.br/edu/aluno/201714610007) - 25%
+- [Sara Campos Monteiro](https://suap.ifpb.edu.br/edu/aluno/201714610040) - 50%
+- [Sayonara Herculano da Silva](https://suap.ifpb.edu.br/edu/aluno/201714610030) - 50%
+- [Stefanny Layanne Ramos da Silva](https://suap.ifpb.edu.br/edu/aluno/201714610014) - 100%
+- [Victor da Silva Vasconcelos](https://suap.ifpb.edu.br/edu/aluno/201714610036) - 25%
+- [Walker Teotonio Correia de Barros](https://suap.ifpb.edu.br/edu/aluno/201714610009) - 50%
+- [Álefe de Lima Moreira](https://suap.ifpb.edu.br/edu/aluno/201714610013) - 50%
+## Meio Ambiente - 1º Ano
+- [Ademario Bruno Galdino da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600001) - 75%
+- [Adriano Beneditoda Silva](https://suap.ifpb.edu.br/edu/aluno/201914600002) - 0%
+- [Alice Francisca da Conceição](https://suap.ifpb.edu.br/edu/aluno/201914600004) - 100%
+- [Ana Klara de Sousa Galdino](https://suap.ifpb.edu.br/edu/aluno/201914600005) - 25%
+- [Anelyza Rielly Felix dos Santos](https://suap.ifpb.edu.br/edu/aluno/201914600006) - 50%
+- [Camile Lima dos Santos](https://suap.ifpb.edu.br/edu/aluno/201914600007) - 25%
+- [Camilly Queziz Ferreira da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600008) - 75%
+- [Camily Maranhão de Oliveira Silva](https://suap.ifpb.edu.br/edu/aluno/201914600009) - 100%
+- [Cecilia Vieira de Melo](https://suap.ifpb.edu.br/edu/aluno/201914600010) - 75%
+- [Elayne Bezerra da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600006) - 75%
+- [Elisson José da Silva Santos](https://suap.ifpb.edu.br/edu/aluno/201914600011) - 100%
+- [Emilly Victória Ferraz do Nascimento](https://suap.ifpb.edu.br/edu/aluno/201914600012) - 50%
+- [Emmyly Heellem da Silva Nunes](https://suap.ifpb.edu.br/edu/aluno/201914600013) - 75%
+- [Erika Vitória Lucas de Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914600014) - 50%
+- [Erinaldo Calixto da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600015) - 100%
+- [Eshiley Vitória Lindolfo Uchoa](https://suap.ifpb.edu.br/edu/aluno/201914600016) - 100%
+- [Flavia Renata Santos da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600045) - 25%
+- [Gabriela Marinho do Nascimento Santana](https://suap.ifpb.edu.br/edu/aluno/201914600017) - 75%
+- [Graziely Vitória Marinho de Lima](https://suap.ifpb.edu.br/edu/aluno/201914600018) - 75%
+- [Inês Eloíza de Oliveira Martins](https://suap.ifpb.edu.br/edu/aluno/201914600019) - 0%
+- [Jardielly Sousa Nunes da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600020) - 75%
+- [Jenifer Lima da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600021) - 75%
+- [João Victor de Oliveira Salvino](https://suap.ifpb.edu.br/edu/aluno/201914600022) - 75%
+- [Kauane Mendes da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600023) - 100%
+- [Kayllane Castro dos Santos](https://suap.ifpb.edu.br/edu/aluno/201914600024) - 100%
+- [Larissa Soares de Araujo](https://suap.ifpb.edu.br/edu/aluno/201914600025) - 100%
+- [Leticia Camille da Silva Fernandes](https://suap.ifpb.edu.br/edu/aluno/201914600026) - 125%
+- [Mabel Hellen Nunes da Costa](https://suap.ifpb.edu.br/edu/aluno/201914600027) - 75%
+- [Maria Eduarda Andrade de Morais](https://suap.ifpb.edu.br/edu/aluno/201914600028) - 100%
+- [Maria Eduarda Mendes Rolim](https://suap.ifpb.edu.br/edu/aluno/201914600030) - 100%
+- [Maria Eduarda Moura Henriques](https://suap.ifpb.edu.br/edu/aluno/201914600031) - 125%
+- [Maria Eduarda da Silva Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914600029) - 50%
+- [Maria Istefani Oliveira Fernandes da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600032) - 75%
+- [Maria Julia de Lima Porpino](https://suap.ifpb.edu.br/edu/aluno/201914600033) - 100%
+- [Maria Micaele Costa da Silva](https://suap.ifpb.edu.br/edu/aluno/201914600034) - 100%
+- [Marina de Souza Alves Meireles](https://suap.ifpb.edu.br/edu/aluno/201914600035) - 25%
+- [Mirelle Cássia Sanatana Alves Rodrigues](https://suap.ifpb.edu.br/edu/aluno/201914600036) - 125%
+- [Petherson Francisco de Lima](https://suap.ifpb.edu.br/edu/aluno/201914600037) - 100%
+- [Ricardo Aristides da Silva Júnior](https://suap.ifpb.edu.br/edu/aluno/201914600038) - 125%
+- [Thays do Nascimento Alves](https://suap.ifpb.edu.br/edu/aluno/201914600039) - 75%
+- [Vinicius Henrique Barbosa Marcolino](https://suap.ifpb.edu.br/edu/aluno/201914600040) - 100%
+- [Vinycius Oliveira Nunes de Souza](https://suap.ifpb.edu.br/edu/aluno/201914600041) - 100%
+- [Wanessa Tayllane Gonçalves dos Santos](https://suap.ifpb.edu.br/edu/aluno/201914600042) - 50%
+- [Yasmin Sued Martins Rocha](https://suap.ifpb.edu.br/edu/aluno/201914600043) - 75%
+- [Ystarlly Lucas de Brito](https://suap.ifpb.edu.br/edu/aluno/201914600044) - 100%
+## Meio Ambiente - 2º Ano
+- [Ana Beatriz Araújo da Rocha](https://suap.ifpb.edu.br/edu/aluno/201814600001) - 100%
+- [Ana Clara Leite Gomes](https://suap.ifpb.edu.br/edu/aluno/201814600002) - 100%
+- [Blenda de Cassia Gomes Barbosa](https://suap.ifpb.edu.br/edu/aluno/201814600003) - 100%
+- [Crisliane Saldanha da Costa](https://suap.ifpb.edu.br/edu/aluno/201814600004) - 75%
+- [Denilson da Silva Nunes](https://suap.ifpb.edu.br/edu/aluno/201814600005) - 75%
+- [Ester Lopes Soares da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600007) - 75%
+- [Felipe Francelino Eleoterio da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600033) - 100%
+- [Gabriele dos Santos Xavier](https://suap.ifpb.edu.br/edu/aluno/201714600037) - 100%
+- [Gabrielle da Silva Oliveira](https://suap.ifpb.edu.br/edu/aluno/201814600010) - 75%
+- [Genica Calixto dos Anjos](https://suap.ifpb.edu.br/edu/aluno/201814600009) - 75%
+- [Gustavo Henrique Borges Pontes](https://suap.ifpb.edu.br/edu/aluno/201814600008) - 75%
+- [Jaqueline Augusto dos Santos](https://suap.ifpb.edu.br/edu/aluno/201814600011) - 25%
+- [Jhennyfer Fernanda Rodrigues de Medeiros](https://suap.ifpb.edu.br/edu/aluno/201814600013) - 75%
+- [Joana Laura Viana de Sousa](https://suap.ifpb.edu.br/edu/aluno/201814600012) - 75%
+- [Josiele Francisco da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600014) - 50%
+- [João Victor da Silva Neto](https://suap.ifpb.edu.br/edu/aluno/201814600035) - 50%
+- [Kaylanne Mickelly da Conceição Marques](https://suap.ifpb.edu.br/edu/aluno/201814600015) - 50%
+- [Káthia Kleyzer Felipe da Silva](https://suap.ifpb.edu.br/edu/aluno/201714600021) - 75%
+- [Luana Danubia da Silva Pereira](https://suap.ifpb.edu.br/edu/aluno/201814600016) - 75%
+- [Marcella Eduarda Alves Ferreira](https://suap.ifpb.edu.br/edu/aluno/201814600036) - 75%
+- [Maria Eduarda da Silva Mello](https://suap.ifpb.edu.br/edu/aluno/201814600017) - 75%
+- [Maria Fernanda Nobres Monteiro](https://suap.ifpb.edu.br/edu/aluno/201814600018) - 75%
+- [Mateus Ferreira de Souza](https://suap.ifpb.edu.br/edu/aluno/201814600019) - 25%
+- [Natanael da Silva Barros](https://suap.ifpb.edu.br/edu/aluno/201714600012) - 50%
+- [Nathalia de França Pereira](https://suap.ifpb.edu.br/edu/aluno/201814600020) - 50%
+- [Rosimery Firmino da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600022) - 100%
+- [Samara Felipe da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600025) - 75%
+- [Sara Rebeca Souza Ramos](https://suap.ifpb.edu.br/edu/aluno/201814600027) - 25%
+- [Stephany Marinho Cosmo](https://suap.ifpb.edu.br/edu/aluno/201814600026) - 25%
+- [Sthefanny Caroline Oliveira do Nascimento](https://suap.ifpb.edu.br/edu/aluno/201814600034) - 75%
+- [Taynan Soares dos Santos](https://suap.ifpb.edu.br/edu/aluno/201614600023) - 25%
+- [Valdeíze Donato da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600029) - 50%
+- [Victor França da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600030) - 25%
+- [Vinicius Bispo da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600028) - 100%
+- [Williane Emanuelle Rodrigues Viana](https://suap.ifpb.edu.br/edu/aluno/201814600032) - 75%
+- [Yasmim Maria Pereira da Silva](https://suap.ifpb.edu.br/edu/aluno/201814600031) - 75%
+## Meio Ambiente - 3º Ano
+- [Adriana Paulino da Silva Santos](https://suap.ifpb.edu.br/edu/aluno/201714600013) - 50%
+- [Alice Batista de Oliveira](https://suap.ifpb.edu.br/edu/aluno/201714600020) - 75%
+- [Aline Felix da Costa](https://suap.ifpb.edu.br/edu/aluno/201714600027) - 50%
+- [Bruna Vitória Silveira Damacena](https://suap.ifpb.edu.br/edu/aluno/201714600004) - 50%
+- [Camila Ellen de Lima Quirino](https://suap.ifpb.edu.br/edu/aluno/201714600006) - 50%
+- [Elisandro Clemente Texeira Júnior](https://suap.ifpb.edu.br/edu/aluno/201614600027) - 50%
+- [Emmanuel Carvalho das Flôres](https://suap.ifpb.edu.br/edu/aluno/201714600034) - 100%
+- [Emídia Maria Rocha Cavalcanti Souza](https://suap.ifpb.edu.br/edu/aluno/201714600029) - 25%
+- [Erynunes Santos](https://suap.ifpb.edu.br/edu/aluno/201714600035) - 75%
+- [Fernando da Silva Filho](https://suap.ifpb.edu.br/edu/aluno/201714600015) - 75%
+- [Gabriela Batista de Oliveira](https://suap.ifpb.edu.br/edu/aluno/201714600017) - 25%
+- [Gessyane Nunes Oliveira](https://suap.ifpb.edu.br/edu/aluno/201714600010) - 75%
+- [Igor Henrique Barbosa Trigueiro](https://suap.ifpb.edu.br/edu/aluno/201714600005) - 50%
+- [Isabelle Vicentini Silva](https://suap.ifpb.edu.br/edu/aluno/201714600024) - 50%
+- [Jessy Kelly Ribeiro Domingos Silva](https://suap.ifpb.edu.br/edu/aluno/201714600030) - 25%
+- [Joanderson Lucas da Silva Souza](https://suap.ifpb.edu.br/edu/aluno/201714600022) - 100%
+- [José Roberto Alves dos Santos](https://suap.ifpb.edu.br/edu/aluno/201714600036) - 50%
+- [José Victor Carvalho da Silva](https://suap.ifpb.edu.br/edu/aluno/201714600019) - 50%
+- [Joyce dos Santos Farias](https://suap.ifpb.edu.br/edu/aluno/201714600018) - 75%
+- [Kailanny Alves Dutra](https://suap.ifpb.edu.br/edu/aluno/201714600009) - 50%
+- [Klívia Tauany dos Santos Silva](https://suap.ifpb.edu.br/edu/aluno/201614600005) - 75%
+- [Marcos Felicio Vieira](https://suap.ifpb.edu.br/edu/aluno/201714600011) - 25%
+- [Maria Cecília do Nascimento Diniz Silva](https://suap.ifpb.edu.br/edu/aluno/201614600011) - 25%
+- [Maria Fernanda Ribeiro da Rocha](https://suap.ifpb.edu.br/edu/aluno/201714600023) - 25%
+- [Maria Luiza de Azevedo Guimarães](https://suap.ifpb.edu.br/edu/aluno/201714600031) - 0%
+- [Maria Regina da Silva Xavier](https://suap.ifpb.edu.br/edu/aluno/201714600014) - 50%
+- [Maria Tamyres da Costa Aguiar](https://suap.ifpb.edu.br/edu/aluno/201714600007) - 75%
+- [Mateus Carlos Ferreira da Silva](https://suap.ifpb.edu.br/edu/aluno/201714600016) - 75%
+- [Pedro Miguel Duarte Rodrigues Costa](https://suap.ifpb.edu.br/edu/aluno/201714600001) - 50%
+- [Ruth Oliveira de Queiroz](https://suap.ifpb.edu.br/edu/aluno/201714600032) - 100%
+- [Sabrina Nunes Júlio](https://suap.ifpb.edu.br/edu/aluno/201714600033) - 50%
+- [Sthefanny Caroline Oliveira do Nascimento](https://suap.ifpb.edu.br/edu/aluno/201714600038) - 75%
+- [Tereza Raquel da Silva Soares](https://suap.ifpb.edu.br/edu/aluno/201714600003) - 75%
+- [Victhória Rebeka Rosendo de Azevedo](https://suap.ifpb.edu.br/edu/aluno/201614600017) - 75%
