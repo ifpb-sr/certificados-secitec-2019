@@ -9,7 +9,7 @@ A lista a seguir apresenta os percentuais de participação
 de cada ouvinte registrado nas listas de presenças.
 
 **OBS**: As participações dos monitores não são confiáveis,
-ver lista dos monitores.
+ver [lista dos monitores](https://ifpb-sr.github.io/secitec/docs/relatorios/relatorios).
 ## Informática - 1º Ano
 - [Aldson Ayres de Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914610001) - 50%
 - [Ana Beatriz do Nascimento Oliveira](https://suap.ifpb.edu.br/edu/aluno/201914610002) - 75%
