@@ -150,7 +150,7 @@ namespace :ouvintes do
     # Prints the names and majors of students in a sample spreadsheet:
     # https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
     spreadsheet_id = '1oo3zJuUMsoT8Mjde7ekgaGTTK2nyO2KBKkQWTmtQvg8'
-    range = 'Página1'
+    range = 'Ouvintes'#'Página1' #Ouvintes ps: se for o nome da página
     response = service.get_spreadsheet_values(spreadsheet_id, range)
     puts 'No data found.' if response.values.empty?
     presenca = {}
