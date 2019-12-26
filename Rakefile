@@ -7,7 +7,8 @@ require 'byebug'
 require 'csv'
 require 'set'
 require 'uri'
-
+# Álefe Código: 4/ugFDGHx-qY5mrHpmoIgWw0c8aEZWiMURkiSnXBubtiJpATTR0oJVj24
+# 4/ugGUGMTa70NPFHIAFkm7mWgfSRSVDzfhLmFl8MAiTCfNPI23FHOiclk
 OOB_URI = 'urn:ietf:wg:oauth:2.0:oob'.freeze
 APPLICATION_NAME = 'quickstart'.freeze
 CREDENTIALS_PATH = 'credentials.json'.freeze
@@ -32,6 +33,7 @@ def authorize
   authorizer = Google::Auth::UserAuthorizer.new(client_id, SCOPE, token_store)
   user_id = 'default'
   credentials = authorizer.get_credentials(user_id)
+
   if credentials.nil?
     url = authorizer.get_authorization_url(base_url: OOB_URI)
     puts 'Open the following URL in the browser and enter the ' \
@@ -149,10 +151,9 @@ namespace :ouvintes do
 
     # Prints the names and majors of students in a sample spreadsheet:
     # https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
-    # spreadsheet_id = '1oo3zJuUMsoT8Mjde7ekgaGTTK2nyO2KBKkQWTmtQvg8'
-    spreadsheet_id = '1v1OpBmgd-ws5EbSQ9PahMKsfXMtOJWrAubtu5m2oZvg'
-    # range = 'Ouvintes'
-    range = 'Página1'
+    spreadsheet_id = PLANILHA_ID
+    range = 'Ouvintes'
+    # range = 'Página1'
     response = service.get_spreadsheet_values(spreadsheet_id, range)
     puts 'No data found.' if response.values.empty?
     presenca = {}
