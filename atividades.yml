@@ -14,7 +14,62 @@ TERCA1000_2:
   m: GT
   d: '26 de Novembro de 2019'
 TERCA1000_3:
-  t: "Get Shop Sustentável"
+  t: "Pet Shop Sustentável"
   i: 4
   m: Palestra
+TERÇA1000_4:
   d: '26 de Novembro de 2019'
+  t: "Educação Animalista De Direito Animal"
+  i: 5
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1000_5:
+  t: "Futuro do trabalho e economia colaborativa"
+  i: 6
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1000_6:
+  t: "A importância das hortas comunitárias no IFPB campus João Pessoa (Gestão Ambiental)"
+  i: 7
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1000_7:
+  t: "Sustentabilidade em cena: produções audiovisuais sobre bioeconomia"
+  i: 8
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1420_1:
+  t: "Ferramentas e técnicas de estudo e memorização"
+  i: 9
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1420_2:
+  t: "Google Classroom - first steps"
+  i: 10
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1420_3:
+  t: "Empreendedorismo e inovação"
+  i: 11
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1420_4:
+  t: "COOREMM: Por Uma Coleta Seletiva Solidária"
+  i: 12
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1420_5:
+  t: "Introdução a desenvolvimento de Games"
+  i: 13
+  m: Palestra
+  d: '26 de Novembro de 2019'
+TERÇA1420_6:
+  t: "Oficina de produção de Sabão Ecológico"
+  i: 14
+  m: Oficina
+  d: '26 de Novembro de 2019'
+TERÇA0840:
+  t: "Robótica"
+  i: 15
+  m: Oficina
+  d: '27 de Novembro de 2019'
