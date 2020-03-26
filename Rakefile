@@ -239,3 +239,50 @@ namespace :ouvintes do
   end
 
 end
+
+desc 'Emite certificados de distinções acadêmicas cum laude'
+task :cum_laude do
+  # Espirado em http://www.ufc.br/memoria-da-ufc/titulos-e-honrarias-atribuidos-pela-ufc/1878-distincoes-academicas
+
+  modelofile = 'modelos/modelo_cum_laude.svg'
+  csvfile = 'dados/cum_laude.csv'
+  pdffile = "certificados/cum_laude/cum_laude_%d.pdf"
+
+  sh "inkscape_merge -f #{modelofile} -d '#{csvfile}' -o '#{pdffile}'"
+  sh "pdftk certificados/cum_laude/*.pdf cat output certificados/cum_laude.pdf"
+end
+
+
+desc 'Emite certificados de lideres'
+task :lideres do
+  modelofile = '/home/eduardo/w/ifpb/certificados-secitec-2019/modelos/modelo_formador_lideres.svg'
+  csvfile = 'dados/lideres.csv'
+  pdffile = "certificados/lideres/lideres_%d.pdf"
+
+  rm_rf "certificados/lideres/lideres_*.pdf"
+  sh "inkscape_merge -f #{modelofile} -d '#{csvfile}' -o '#{pdffile}'"
+  sh "pdftk certificados/lideres/*.pdf cat output certificados/lideres.pdf"
+end
+
+
+
+
+def gera_certificado(nome, modelo, titulo, data, chave)
+  return if modelo == 'ApresentacaoOral'
+  #byebug
+  cvs_dir = "tmp/csv/#{nome}/"
+  pdf_dir = "tmp/pdf/#{nome}/"
+  FileUtils.mkdir_p(cvs_dir) unless File.directory?(cvs_dir)
+  FileUtils.mkdir_p(pdf_dir) unless File.directory?(pdf_dir)
+  csvfile = "tmp/csv/#{nome}/#{chave}.csv"
+  pdffile = "tmp/pdf/#{nome}/#{chave}.pdf"
+  modelofile = "modelos/digital/#{modelo}.svg"
+  CSV.open(csvfile, "wb") do |csv|
+    csv << ["nome", "titulo", "data"]
+    csv << [nome, titulo, data]
+  end
+
+  sh "inkscape_merge -f #{modelofile} -d '#{csvfile}' -o '#{pdffile}'"
+
+end
+
